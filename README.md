@@ -1,7 +1,9 @@
 # Hello! 👋
 
 🇧🇷 I'm Gabriel Onishi, a Computer Engineering student based in Brazil attending Insper
+
 🇬🇧 I'm currently getting ready for my exchange program at Northumbria University
+
 💡 I love learning and I'm currently focused on learning more about how Blockchain technology can disrupt the world we live in today
 
 ## Here are some tools I am familiar with
